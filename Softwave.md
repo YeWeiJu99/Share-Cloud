@@ -29,3 +29,27 @@
 ## 1.2 Browser
 
 **If you are a user of Windows 10 or above and do not have VPN or other tools, then I suggest you use Edge browser directly.**
+
+*Because I often use government websites and no longer support Flash for [Edge](https://www.microsoft.com/zh-cn/edge/download) and [Chrome](https://www.google.cn/chrome/index.html), [360 Speed Browser](https://browser.360.cn/ee/) is highly recommended for everyone to install.*
+
+### 1.2.1 Extension
+
+*In order to improve the convenience of using the browser and improve the user experience, extensions are an essential tool in the browser. The reason for recommending Chrome is precisely this, and the reason why users without VPN should use Edge is that it can better use extensions.*
+
+*Edge*: [Extension](https://microsoftedge.microsoft.com/addons/Microsoft-Edge-Extensions-Home?hl=zh-CN)
+
+*Chrome*:[Extension:Need VPN](https://chrome.google.com/webstore/category/extensions?hl=zh-CN)|[Extension](https://www.crxsoso.com/)
+
+***!!Please pay attention to identifying malicious extensions!!***
+
+Chrome recommends the following extensions:
+
+(Need VPN,Please click 'Name')
+
+|**Name**|**Function**|
+|:-:|:-:|
+|[Tampermonkey beta](https://chrome.google.com/webstore/detail/tampermonkey-beta/gcalenpjmijncebpfijmoaglllgpjagf?hl=zh-CN)|Enhancing user experience with JavaScipy:[Greasy](https://greasyfork.org/zh-CN)|
+|[uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)|Block advertisements appearing in browsers|
+|[WeTab](https://chrome.google.com/webstore/detail/wetab-%E5%85%8D%E8%B4%B9chatgpt%E6%96%B0%E6%A0%87%E7%AD%BE%E9%A1%B5/aikflfpejipbpjdlfabpgclhblkpaafo)|Customize your tab bar|
+
+## 1.3 Secure
